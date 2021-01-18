@@ -1,0 +1,3 @@
+C:\Users\HDS\source\repos\DENEME\DENEME\Debug\DENEME.vcxprojAssemblyReference.cache
+C:\Users\HDS\source\repos\DENEME\DENEME\Debug\DENEME.Form1.resources
+C:\Users\HDS\source\repos\DENEME\DENEME\Debug\DENEME.vcxproj.GenerateResource.cache
