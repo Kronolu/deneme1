@@ -1,0 +1,8 @@
+﻿  Form1.cpp
+  dllmain.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+Form1.obj : error LNK2020: çözümlenmemiş belirteç (0A0000AC) "extern "C" int __cdecl _CrtDbgReport(int,char const *,int,char const *,char const *,...)" (?_CrtDbgReport@@$$J0YAHHPBDH00ZZ)
+Form1.obj : error LNK2028: Çözümlenmemiş belirteç (0A000136) "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z), "public: void __thiscall std::_Iterator_base12::_Orphan_me(void)" (?_Orphan_me@_Iterator_base12@std@@$$FQAEXXZ) işlevinde başvurdu
+Form1.obj : error LNK2020: çözümlenmemiş belirteç (0A00014D) "extern "C" int __cdecl _CrtDbgReport(int,char const *,int,char const *,char const *,...)" (?_CrtDbgReport@@$$J0YAHHPBDH00ZZ)
+Form1.obj : error LNK2001: çözümlenmemiş dış sembol "extern "C" int __cdecl _CrtDbgReport(int,char const *,int,char const *,char const *,...)" (?_CrtDbgReport@@$$J0YAHHPBDH00ZZ)
+Form1.obj : error LNK2019: çözümlenmemiş dış sembol "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z) için "public: void __thiscall std::_Iterator_base12::_Orphan_me(void)" (?_Orphan_me@_Iterator_base12@std@@$$FQAEXXZ) işlevinde başvuruldu
+C:\Users\HDS\source\repos\DENEME\Debug\DENEME.dll : fatal error LNK1120: 5 çözümlenmemiş dışlar
